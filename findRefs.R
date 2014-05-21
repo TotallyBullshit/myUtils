@@ -1,7 +1,8 @@
 ## FUNCTION findRefs
-## utility for getting reference
-## information about an existing
-## R function
+## from  http://stackoverflow.com/questions/8174695/find-all-functions-in-a-package-that-use-a-function/8175211#8175211
+##
+## utility for finding all functions
+## in a package that use another function
 ## -----------------------------
 
 findRefs <- function(pkg, fn) {
