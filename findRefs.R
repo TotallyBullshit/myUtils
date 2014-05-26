@@ -1,5 +1,6 @@
 ## FUNCTION findRefs
-## from  http://stackoverflow.com/questions/8174695/find-all-functions-in-a-package-that-use-a-function/8175211#8175211
+##
+## Authored at http://stackoverflow.com/questions/8174695/find-all-functions-in-a-package-that-use-a-function/8175211#8175211
 ##
 ## utility for finding all functions
 ## in a package that use another function
